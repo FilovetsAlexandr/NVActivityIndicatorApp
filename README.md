@@ -1,1 +1,2 @@
 # NVActivityIndicatorApp
+with SPM
